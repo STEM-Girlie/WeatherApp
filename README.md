@@ -5,20 +5,21 @@ The app fetches live weather data using a public API and displays temperature, c
 Frontend Repo: https://github.com/STEM-Girlie/Weather-App
 
 ## Table of Contents
-- Overview
-- Features
-- Tech Stack
-- Architecture
-- Database Design
-- API Endpoints
-- Installation
-- Environment Variables
-- Usage
-- Screenshots
-- Deployment
-- Improvements
-- Credits
-- License
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Architecture](#architecture)
+- [Database Design](#database-design)
+- [API Endpoints](#api-endpoints)
+- [Installation](#installation)
+- [Environment Variables](#environment-variables)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Deployment](#deployment)
+- [Future Improvements](#future-improvements)
+- [Credits](#credits)
+- [License](#license)
+
 
 ## Overview
 ### Motivation
@@ -95,6 +96,29 @@ Then insert it into your JavaScript file where required.
 - View real‑time weather information
 - Search again for another location
 
+## Screenshots
 
+![Search Bar](assets/searchbar.png)
+![Search Result](assets/search-result.png)
 
+## Deployment
+- You can deploy this project using GitHub Pages:
+- Go to your repo settings
+- Scroll to “Pages”
+- Select the main branch
+- Save
+- Your live link will appear
 
+## Future Improvements
+- Add 5‑day forecast
+- Add geolocation (detect user’s current city)
+- Add dark mode
+- Improve UI animations
+- Add loading states
+
+## Credits
+Developer: Nasreen Baker  
+GitHub: https://github.com/STEM-Girlie
+
+## License
+This project is licensed under the MIT License.
