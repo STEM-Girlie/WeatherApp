@@ -59,7 +59,7 @@ Client‑side only application:
 User Input → Fetch API → Weather API → Display Results in UI
 
 ## Folder Structure
-
+```
 Weather-App/
  ├── index.html
  ├── styles.css
@@ -67,6 +67,7 @@ Weather-App/
  ├── images/
  ├── Weather App_files/
  └── README.md
+```
 
 ## Database Design
 This project does not use a database.
@@ -78,9 +79,10 @@ GET https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&uni
 
 ## Installation
 ### Clone the Repository
-
+```
 git clone https://github.com/STEM-Girlie/Weather-App.git
 cd Weather-App
+```
 
 No dependencies are required — this is a pure HTML/CSS/JS project.
 
